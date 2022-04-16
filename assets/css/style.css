@@ -441,7 +441,17 @@ footer .widget-title-text {
   background-color: var(--banner1);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 750px) {
+  .opening-colum .hours {
+    display: none;
+  }
+}
+
+@media (max-width: 630px) {
+  .opening-colum .hours {
+    display: block;
+  }
+
   .banner-headline h1 {
     font-size: 55px;
   }
