@@ -262,6 +262,23 @@ article {
   flex-wrap: wrap;
 }
 
+.widget-box {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.widget-box div {
+  width: 150px;
+  height: 150px;
+  background-color: #0079c7;
+}
+
+.widget-box div:last-child {
+  margin-bottom: 40px;
+}
+
 footer {
   background-color: #1e1e1e;
   display: flex;
@@ -279,6 +296,30 @@ footer {
   flex: 1;
   color: var(--color-text);
   padding: 20px;
+}
+
+.fm1 h1 {
+  margin-bottom: 20px;
+}
+
+.fm2 h1 {
+  margin-bottom: 20px;
+}
+
+.fm3 h1 {
+  margin-bottom: 20px;
+}
+
+.fm1 p {
+  font-size: 14px;
+}
+
+.fm2 p {
+  font-size: 14px;
+}
+
+.fm3 p {
+  font-size: 14px;
 }
 
 .fm1 {
