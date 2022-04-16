@@ -2,7 +2,7 @@
 
 MediCenter - Health Medical Clinic Template.
 
-### <a href="">Acesse o site</a>
+### <a href="https://praticmedicenter.netlify.app/">Acesse o site</a>
 
 ## 📑 Observação
 
