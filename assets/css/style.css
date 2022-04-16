@@ -32,6 +32,7 @@ header {
   justify-content: space-between;
   display: flex;
   width: 990px;
+  padding: 0 10px 0 10px;
 }
 
 .logo {
@@ -264,7 +265,6 @@ article {
 
 .widget-box {
   display: flex;
-  flex: 1;
   flex-wrap: wrap;
   gap: 20px;
 }
